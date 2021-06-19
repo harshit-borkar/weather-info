@@ -38,7 +38,7 @@ input:focus {
     line-height: 0;
     font-family: 'Poppins', sans-serif;
     color: honeydew;
-    text-shadow: 2px 2px 10px grey;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .weather h1 {
